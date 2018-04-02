@@ -1,0 +1,12 @@
+{
+    "name": "config-fp",
+    "version": "0.0.0",
+    "description": "Configuration for vacay fingerprint application",
+    "repository": {},
+    "main": "index.js",
+    "scripts": {
+	"test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "admin <admin@vacay.io>",
+    "license": "MIT"
+}
